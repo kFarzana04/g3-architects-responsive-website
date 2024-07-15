@@ -82,17 +82,8 @@ main{
 }
 /* Team and Featured Style */
 
-.teams{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
 
-}
-.team-img-container{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 24px;
-}
+
 
 
 
