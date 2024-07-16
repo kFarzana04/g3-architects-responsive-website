@@ -31,8 +31,12 @@
   .text-primary{
     color: rgb(255, 144, 14);
   }
+  .section-title{
+    font-size: 2rem;
+    font-weight: 700;
+  }
 
-
+/* Main Section Styles starts*/
 main{
     max-width: 1440px;
     margin: 0 auto;
@@ -98,10 +102,7 @@ main{
   max-width: 530px;
 
 }
-.feature-title{
-  font-size: 2rem;
 
-}
 
 
 
